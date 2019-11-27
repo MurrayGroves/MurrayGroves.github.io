@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML/CSS on Murray Groves</title>
+    <link>/techs/html/css/</link>
+    <description>Recent content in HTML/CSS on Murray Groves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>© Murray Groves</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="/techs/html/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Website</title>
+      <link>/portfolio/website/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>/portfolio/website/</guid>
+      <description>With all my projects, I decided I needed somewhere to showcase my work and achievements. Thus, this website was born. It was made using Hugo. It is hosted on a Linux VPS using nginx.</description>
+    </item>
+    
+  </channel>
+</rss>
