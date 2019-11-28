@@ -3,7 +3,7 @@ languageCode = "en-gb"
 title = "Murray Groves"
 theme = "personal-web"
 copyright="© Murray Groves"
-googleAnalytics = ""
+googleAnalytics = "UA-153520490-1"
 enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
@@ -75,9 +75,9 @@ pygmentsCodeFences=true
 
 [privacy]
   [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
-    respectDoNotTrack = true
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
     useSessionStorage = false
   [privacy.twitter]
     disable = true
