@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Oracle"
+date:   2020-06-17 17:19:58 +0100
+categories: discord python
+---
+
+[GitHub Repository](https://github.com/MurrayGroves/Oracle)
+
+<!-- excerpt-start -->
+Oracle is a Discord bot for a [Welcome to Nightvale](https://welcometonightvale.com) Discord server I'm in.  
+<!-- excerpt-end -->
+
+It has a few basic features:
+- Respond to user-defined triggers with a pre-defined response.
+- View existing triggers
+- Remove triggers
+- View a random trigger and response as the bot's status
+- Send a message when a new episode of a specific podcast comes out
+
+### Testimonials
+#### Princesslovepink#8733
+> I love being able to make it say weird Nightvale stuff! It really fits into the theme of the server!
+
+#### Fell.EXE#3777
+>The developer regularly maintains and improves upon the bot to match the needs and requirements of its userbase.
+
+#### floatingcat#9476
+>Oracle has been great fun, especially when it chimes in unexpectedly during a conversation when someone happens to say one of its prompts! It's like our server pet, fantastic idea for a bot.

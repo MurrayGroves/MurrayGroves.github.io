@@ -1,2 +1,6 @@
 
 hugo.exe
+
+.jekyll-cache/
+
+_site/
