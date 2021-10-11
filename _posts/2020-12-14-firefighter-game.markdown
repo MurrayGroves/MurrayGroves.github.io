@@ -13,6 +13,6 @@ For my National Diploma in Computer Science Unit 14 coursework, I had to design 
 
 In the game, you have to solve arithmetic problems to put out fires in an apartment building and earn points.  
 
-You can play it [here](https://murraygroves.github.io/Firefighter-Game)
+You can play it [here](https://murraygrov.es/Firefighter-Game/)
 
 ![Screenshot from the game](/assets/firefighter.png)
