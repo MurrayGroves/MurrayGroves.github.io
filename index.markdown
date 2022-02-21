@@ -9,7 +9,7 @@ Hi, I'm Murray. I'm currently studying Further Maths and Computer Science at [Ad
 I love programming (usually in Python). Most of my projects utilise third-party APIs such as the [Discord](https://discord.com) API.
 I'm very interested in cryptocurrency and I've even [made my own](/crypto/python/2021/05/19/murraxcoin.html)!
 
-Checkout my other projects [here](/portfolio.html)
+Check out my other projects [here](/portfolio.html)
 
 ## Soft Skills Experience
 ### Scouting
