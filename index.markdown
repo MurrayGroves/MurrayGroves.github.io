@@ -7,7 +7,7 @@ permalink: /
 Hi, I'm Murray. I'm currently studying Further Maths and Computer Science at [Ada National College for Digital Skills](https://ada.ac.uk).
 
 I love programming (usually in Python). Most of my projects utilise third-party APIs such as the [Discord](https://discord.com) API.
-I'm very interested in cryptocurrency and I've even [made my own](/jekyll/update/2021/05/19/murraxcoin.html)!
+I'm very interested in cryptocurrency and I've even [made my own](/crypto/python/2021/05/19/murraxcoin.html)!
 
 Checkout my other projects [here](/portfolio.html)
 
